@@ -1,5 +1,3 @@
-/*@Autor William Martinez*/
-
 class ContactDetailsPage {
     constructor(page) {
         this.page = page;

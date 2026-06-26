@@ -1,5 +1,3 @@
-/*@Autor William Martinez*/
-
 const { request } = require('@playwright/test');
 
 class ContactApiClient {
