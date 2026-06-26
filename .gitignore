@@ -1,0 +1,29 @@
+# Dependencias de Node (¡La más importante!)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Reportes y resultados locales de Playwright
+test-results/
+playwright-report/
+blob-report/
+playwright/.local-browsers
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuraciones de editores de código locales
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Variables de entorno o credenciales secretas
+.env
+.env.local
